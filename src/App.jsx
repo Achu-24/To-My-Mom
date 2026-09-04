@@ -123,7 +123,7 @@ function App() {
         >
           <Cookie className="section-icon" size={38} />
 
-          <h2>The Little Things You Did For Me</h2>
+          <h2>The Little Things You Did For Us</h2>
 
           <p>
             I still remember how, whenever there was a function or special
